@@ -4,11 +4,11 @@ const manifest = {
 	assets: new Set([".DS_Store","favicon.png","favicon1.png"]),
 	mimeTypes: {".png":"image/png"},
 	_: {
-		entry: {"file":"_app/immutable/start-e9333c80.js","imports":["_app/immutable/start-e9333c80.js","_app/immutable/chunks/index-e20c4d4a.js","_app/immutable/chunks/singletons-b96fff73.js","_app/immutable/chunks/index-9dea4bd4.js"],"stylesheets":[],"fonts":[]},
+		entry: {"file":"_app/immutable/start-c35cf7a5.js","imports":["_app/immutable/start-c35cf7a5.js","_app/immutable/chunks/index-b794c41a.js","_app/immutable/chunks/singletons-466ac005.js","_app/immutable/chunks/index-b796acae.js"],"stylesheets":[],"fonts":[]},
 		nodes: [
-			() => import('./chunks/0-d1dafbd1.js'),
-			() => import('./chunks/1-43181488.js'),
-			() => import('./chunks/2-b54ddd31.js')
+			() => import('./chunks/0-d006834b.js'),
+			() => import('./chunks/1-f3cb5515.js'),
+			() => import('./chunks/2-b47fa2a8.js')
 		],
 		routes: [
 			{
